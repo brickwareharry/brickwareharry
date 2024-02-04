@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I could code when I was about ten years old. However, I did not have my own computer, so I became a civil engineer in Hong Kong. Immigrating to New Zealand, I got an opportunity to pursue my childhood passion on computer coding, so here I am.
 
+### Project Motivation
+I have an aspiration for software development that is like building LEGO bricks and assembling various bricks together to be specific objects in order to achieve high maintainability and flexibility. Going with this aspiration, I am on a team of three friends going to upgrade and migrate our hobby project to a modern microservices with comprehensive tests and documentation. This project is a proof of concept for building microservices to improving software maintainability and flexibility, since maintenance cost is crucial.
+
 ### Project Brief
+🔜 Coming soon
