@@ -20,3 +20,9 @@ I have an aspiration for software development that is like building LEGO bricks 
 
 ### Project Brief
 🔜 Coming soon
+
+### Introduction
+🔜 Coming soon
+
+### Documentation
+🔜 Coming soon
