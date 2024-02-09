@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on C#, .NET and JavaScript, see [my CV](https://brickwareharry.github.io/harrycv/){:target="_blank"}.
+- 🔭 I’m currently working on C#, .NET and JavaScript, see [my CV](https://brickwareharry.github.io/harrycv/){="_blank"}.
 - 🌱 I’m currently learning Microservices in this repository, see below for more information.
 - 👯 I’m looking to collaborate on a private hobby project on a team of three. This public repository will be integrated into the private project.
 - 🤔 I’m looking for help with building an open source Microservices project as a proof of concept for imporving software maintainability. 
