@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 😊 I imagine coding like playing a set of special LEGO bricks. Haha!!
 - 🏤 I'm collecting coding challenges in a [playground](https://github.com/brickwareharry/playground).
-- 🔭 I’m currently working on C#, .NET and JavaScript, see <a href="https://brickwareharry.github.io/harrycv/" target="_blank">my CV</a>.
+- 🔭 I’m currently working on C#, .NET and JavaScript, see <a href="https://brickwareharry.github.io/harrycv/" target="_blank">my CV</a> or [my profile](https://www.seek.com.au/profile/harry-lo-nrp25DTPmD).
 - 🌱 I’m currently learning Microservices in this repository, see below for more information.
 - 👯 I’m looking to collaborate on a private hobby project on a team of three. This public repository will be integrated into the private project.
 - 🤔 I’m looking for help with building an open source Microservices project as a proof of concept for imporving software maintainability. 
