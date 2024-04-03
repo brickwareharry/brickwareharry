@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 -->
 
+- 🌄 I am building a homelab, see [readme](https://github.com/brickwareharry/homelab/blob/main/README.md).
 - 😊 I imagine coding like playing a set of special LEGO bricks. Haha!!
 - 🏤 I'm collecting coding challenges in a [playground](https://github.com/brickwareharry/playground).
 - 🔭 I’m currently working on C#, .NET and JavaScript, see <a href="https://brickwareharry.github.io/harrycv/" target="_blank">my CV</a> or [my profile](https://www.seek.com.au/profile/harry-lo-nrp25DTPmD).
