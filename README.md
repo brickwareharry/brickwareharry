@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌄 I am building a homelab, see [readme](https://github.com/brickwareharry/homelab/blob/main/README.md).
+- 🌄 I am building a homelab, see [my note](https://github.com/brickwareharry/notes/blob/main/NotesHomeLab.pdf) or [readme](https://github.com/brickwareharry/homelab/blob/main/README.md).
 - 🌱 I am drafting a learning plan, see [readme](https://github.com/brickwareharry/learningplan/blob/main/README.md)
 - 😊 I imagine coding like playing a set of special LEGO bricks. Haha!!
 - 🏤 I'm collecting coding challenges in a [playground](https://github.com/brickwareharry/playground).
