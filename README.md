@@ -5,21 +5,18 @@
 Here are some ideas to get you started:
 -->
 
-- 🌄 I am building a homelab, see [my note](https://github.com/brickwareharry/notes/blob/main/NotesHomeLab.pdf) or [readme](https://github.com/brickwareharry/homelab/blob/main/README.md).
-- 🌱 I am drafting a learning plan, see [readme](https://github.com/brickwareharry/learningplan/blob/main/README.md)
-- 😊 I imagine coding like playing a set of special LEGO bricks. Haha!!
-- 🏤 I'm collecting coding challenges in a [playground](https://github.com/brickwareharry/playground).
-- 🔭 I’m currently working on C#, .NET and JavaScript, see <a href="https://brickwareharry.github.io/harrycv/" target="_blank">my CV</a> or [my profile](https://www.seek.com.au/profile/harry-lo-nrp25DTPmD).
-- 👯 I’m looking to collaborate on a private hobby project on a team of three. This public repository will be integrated into the private project.
-- 🤔 I’m looking for help with building an open source Microservices project as a proof of concept for imporving software maintainability. 
-- 💬 Ask me about my project progress, or see [my diary](https://github.com/brickwareharry/diary).
-- 🧠 What I have learned here, see [my notes](https://brickwareharry.github.io/notes/).
-- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/harry-lo-27034265/)
-- 😄 Pronouns: he / his
+As a passionate software developer with a history of diverse, exploratory projects, I have gained a wealth of experience in various aspects of development. In the past, my work was scattered and unorganized, often resulting in lost opportunities and uncompleted projects. Recognizing the need for better organization and strategic focus, I am now dedicated to transforming my approach to development.
+
+Starting June 7, 2024, I am re-organizing my projects and focusing on creating a robust and scalable online shop template. My goal is to build a comprehensive, user-friendly solution that integrates modern design principles with powerful backend functionality. Through meticulous planning, structured development, and continuous improvement, I aim to deliver a template that not only meets the needs of online retailers but also showcases my growth as a developer.
+
+You can follow my work and projects on GitHub at brickwareharry. Let's connect and explore opportunities to collaborate!
+
+Date: June 7, 2024
+
 - ⚡ Fun fact: I could code when I was about ten years old. However, I did not have my own computer, so I became a civil engineer in Hong Kong. Immigrating to New Zealand, I got an opportunity to pursue my childhood passion on computer coding, so here I am.
 
 ### Project Motivation
-I have an aspiration for software development that is like building LEGO bricks and assembling various bricks together to be specific objects in order to achieve high maintainability and flexibility. This is also the reason why this repository is named to be brickware with my name as a suffix. Going with this aspiration, I am on a team of three friends going to upgrade and migrate our hobby project to a modern microservices with comprehensive tests and documentation. This project is a proof of concept for building microservices to improving software maintainability and flexibility, since maintenance cost is crucial.
+🔜 Coming soon
 
 ### Project Brief
 🔜 Coming soon
