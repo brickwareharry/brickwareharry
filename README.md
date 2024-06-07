@@ -15,8 +15,8 @@ Date: June 7, 2024
 
 - ⚡ Fun fact: I could code when I was about ten years old. However, I did not have my own computer, so I became a civil engineer in Hong Kong. Immigrating to New Zealand, I got an opportunity to pursue my childhood passion on computer coding, so here I am.
 
-### 
-1. Planning and Requirements
+### 1. Planning and Requirements
+
     1. Objectives:
         - To leverage modern technology, newly adopted organizational strategies, and my expanding experience in software development, newly adopted organizational strategies to create innovative and user-friendly online shop templates. I aim to deliver high-quality, scalable solutions that meet the evolving needs of online retailers while continuously learning and applying modern coding practices and software development techniques to enhance my skills and contributions.
     2. Feature List:
