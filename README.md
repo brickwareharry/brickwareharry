@@ -15,14 +15,43 @@ Date: June 7, 2024
 
 - ⚡ Fun fact: I could code when I was about ten years old. However, I did not have my own computer, so I became a civil engineer in Hong Kong. Immigrating to New Zealand, I got an opportunity to pursue my childhood passion on computer coding, so here I am.
 
-### Project Motivation
+### 1. Planning and Requirements
+- Objectives:
+- Feature List:
 🔜 Coming soon
 
-### Project Brief
+### 2. Design and Architecture
+- Wireframing
+- Technology Stack
+- Database Design
 🔜 Coming soon
 
-### Introduction
+### 3. Development Setup
+- Version Control
+- Project Structure
 🔜 Coming soon
 
-### Documentation
+### 4. Development
+- Incremental Development
+- Code Quality
+🔜 Coming soon
+
+### 5. Testing
+- Unit Testing
+- Integration Testing
+🔜 Coming soon
+
+### 6. Deployment
+- Hosting
+- CI/CD
+🔜 Coming soon
+
+### 7. Documentation
+- Code Documentation
+- User Documentation
+🔜 Coming soon
+
+### 8. Maintenance
+- Versioning
+- Bug Fixes and Updates
 🔜 Coming soon
