@@ -20,6 +20,7 @@ Date: June 7, 2024
     1. Objectives:
         - To leverage modern technology, newly adopted organizational strategies, and my expanding experience in software development, newly adopted organizational strategies to create innovative and user-friendly online shop templates. I aim to deliver high-quality, scalable solutions that meet the evolving needs of online retailers while continuously learning and applying modern coding practices and software development techniques to enhance my skills and contributions.
     2. Feature List:
+        1. List products
 🔜 Coming soon
 
 ### 2. Design and Architecture
