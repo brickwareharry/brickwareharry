@@ -11,7 +11,9 @@ Starting June 7, 2024, I am re-organizing my projects and focusing on creating a
 
 You can follow my work and projects on GitHub at brickwareharry. Let's connect and explore opportunities to collaborate!
 
-Date: June 7, 2024
+Below is my TODO list that I am working on and continuously updated for your reference.
+
+Date: June 10, 2024
 
 - ⚡ Fun fact: I could code when I was about ten years old. However, I did not have my own computer, so I became a civil engineer in Hong Kong. Immigrating to New Zealand, I got an opportunity to pursue my childhood passion on computer coding, so here I am.
 
@@ -20,12 +22,14 @@ Date: June 7, 2024
 1. Objectives:
         - To leverage modern technology, newly adopted organizational strategies, and my expanding experience in software development, newly adopted organizational strategies to create innovative and user-friendly online shop templates. I aim to deliver high-quality, scalable solutions that meet the evolving needs of online retailers while continuously learning and applying modern coding practices and software development techniques to enhance my skills and contributions.
 2. Feature List:
-        1. List products
+        1. Product List
 🔜 Coming soon
 
 ### 2. Design and Architecture
-- Wireframing
-- Technology Stack
+1. Wireframing
+    1. Product List
+2. Technology Stack
+    1. Front-end: Angular
 - Database Design
 🔜 Coming soon
 
@@ -50,6 +54,39 @@ Date: June 7, 2024
 🔜 Coming soon
 
 ### 7. Documentation
+1. Directory structure
+```plaintext
+project-root/
+├── docs/
+│   ├── wireframe/
+│   │   ├── product_list_wireframe.png
+│   └── README.md
+├── trial-online-shop/
+│   ├── src/
+│   │   ├── 🔜 Coming soon 
+│   └── README.md
+
+🔜 Coming soon 
+Example for reference only:
+│   ├── uml/
+│   │   ├── class_diagram.png
+│   │   └── sequence_diagram.png
+│   ├── architecture/
+│   │   ├── system_architecture.md
+│   │   └── database_design.md
+│   └── code_snippets/
+│       ├── example_code_1.md
+│       └── example_code_2.md
+├── src/
+│   ├── frontend/
+│   │   └── angular_project/
+│   └── backend/
+│       └── dotnet_project/
+└── README.md
+```
+
+
+
 - Code Documentation
 - User Documentation
 🔜 Coming soon
