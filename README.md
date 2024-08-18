@@ -23,6 +23,8 @@ Date: June 10, 2024
         - To leverage modern technology, newly adopted organizational strategies, and my expanding experience in software development to create innovative and user-friendly online shop templates. I aim to deliver high-quality, scalable solutions that meet the evolving needs of online retailers while continuously learning and applying modern coding practices and software development techniques to enhance my skills and contributions.
 2. Feature List:
         1. Product List
+3. Documentation structure
+        1. refer to: https://chatgpt.com/share/c8dd019f-87c9-4b0d-a1cc-1e0a8d82470f 
 🔜 Coming soon
 
 ### 2. Design and Architecture
